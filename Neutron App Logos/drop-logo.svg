@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 454.1 453.3">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #1e1e1e;
+        stroke-width: 3.2px;
+      }
+
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #421b4c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M367.9,109.5l-78-78c-34.4-34.4-90.3-34.4-124.7,0l-78,78c-77.5,77.5-77.5,203.3,0,280.8,77.5,77.5,203.3,77.5,280.8,0,77.5-77.5,77.5-203.3,0-280.8Z"/>
+  <path class="st2" d="M243.7,94.7c-9.2-8.5-23.4-8.5-32.7,0l-71.7,66.4c-3.6,3.3-6,7.6-7.1,12.3l-21.6,95.2c-.9,3.9-.8,7.8.2,11.5,0,2.8.6,5.6,1.6,8.3l15.4,39.8c2.1,5.3,5.9,9.7,10.9,12.4l77.1,41.9c7.2,3.9,15.8,3.9,23,0l77.1-41.9c5-2.7,8.9-7.1,10.9-12.4l15.4-39.8c1.1-2.8,1.6-5.6,1.6-8.4.9-3.6,1.1-7.5.2-11.4l-21.6-95.2c-1.1-4.7-3.5-9-7.1-12.3l-71.7-66.4Z"/>
+  <ellipse class="st1" cx="259.4" cy="159" rx="12.9" ry="23.3" transform="translate(-39.3 216.7) rotate(-42.4)"/>
+  <ellipse class="st1" cx="290.6" cy="192.3" rx="8.5" ry="15.3" transform="translate(-53.6 246.5) rotate(-42.4)"/>
+</svg>
